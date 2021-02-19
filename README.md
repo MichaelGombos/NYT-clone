@@ -1,6 +1,6 @@
 # THE NEW YORK TIMES CLONE
 
-This is a clone I built to practice positioning and floating elements in HTML
+This is a clone I built to practice BEM, positioning and floating elements in HTML
 
 ## Live
 
