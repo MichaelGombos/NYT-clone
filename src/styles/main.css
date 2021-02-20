@@ -140,6 +140,9 @@ table {
   background-color: #567b95;
   border: 1px solid #415d70;
 }
+p {
+  font-size: 20px;
+}
 /*header */
 header {
 }
@@ -225,6 +228,18 @@ header {
 .main__top p {
   width: 600px;
 }
-.thumbnail img {
+/*> >thumbnail */
+.thumbnail {
+  margin-bottom: 50px;
+}
+.thumbnail__img {
   width: 1200px;
+}
+.thumbnail__caption {
+  font-size: 15px;
+  color: #666;
+}
+.thumbnail__attribution {
+  font-size: 13px;
+  color: #888;
 }
